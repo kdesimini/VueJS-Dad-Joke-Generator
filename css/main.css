@@ -27,4 +27,5 @@ h1 {
 p {
     padding: 5%;
     font-size: 1.2em;
+    text-align: justify;
 }
